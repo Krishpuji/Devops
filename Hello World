@@ -1,0 +1,11 @@
+Hello World 
+Maven Commands :-
+ ==============
+ cd Project > pom.xml 
+ mvn validate - validate
+ mvn clean - validate , clean
+ mvn compile - validate , clean , compile 
+ mvn test - validate , clean , compile , test 
+ mvn package - validate , clean , compile , test , package
+ mvn install - validate , clean , compile , test , package , install 
+ mvn deploy - validate , clean , compile , test , package , install , deploy 
